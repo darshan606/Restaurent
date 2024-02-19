@@ -68,9 +68,8 @@ body{
     margin-top: 60px;
     display: flex;
     flex-direction: row;
-    /* justify-content: center;
-    align-items: center; */
-    /* margin : 25px 100px; */
+    padding:20px 30px;
+    border:1px solid black;
 }
 .sem{
     margin: 0 65px;
